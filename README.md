@@ -11,7 +11,7 @@ O curso a seguir é oferecido pela organização Mulheres de Fases, pelo projeto
 ## Onde encontrar os materiais
 - Apostila: [Clique aqui](https://docs.google.com/document/d/1grfkaALrDzUpYwKCEwWHgk4hotqxqZL_z5uPIK61ewg/edit?usp=sharing)
 - Slides: [Clique aqui](https://www.canva.com/folder/FAFTlHj2pY4)
-- Código completo: 
+- Código completo: [Clique aqui](https://github.com/s-eiko/dev.web-incuba.social/blob/main/index.html)
 
 ## Ferramentas utilizadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
